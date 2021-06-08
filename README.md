@@ -1,6 +1,6 @@
 Please at least glance over the images depicting my brainfarts and associated repos from https://github.com/topics/steltenrepo?o=desc&s=stars
 
-You can tip me for my help, ideas, messages, or no reason at all even from https://github.com/topics/steltenrepo?o=desc&s=stars
+You can tip me for my help, ideas, messages, or no reason at all even from https://github.com/sponsors/steltenpower?o=sd&sc=t
 
 - 🔭 I’m currently working on time for these serious hobbies later
 - 🌱 I’m currently learning to manage busy life
